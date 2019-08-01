@@ -1,0 +1,19 @@
+.container {
+  display: inline-flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #f7f7f7;
+  border-radius: 2px;
+  width: 600rpx;
+  height: 80rpx;
+}
+
+.arrow {
+  width: 80rpx;
+  height: 80rpx;
+}
+
+.title {
+  font-size: 28rpx;
+}
